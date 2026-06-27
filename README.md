@@ -11,3 +11,7 @@ The makefile compiles the selected algorithm along with the main to run the nece
 
 Each algo has its own mechanism of detecting and solving the deadlock, as shown below:
 
+Wait_die:
+
+https://github.com/user-attachments/assets/dd57b44a-b691-42e9-9eca-bedf1b3f9340
+
