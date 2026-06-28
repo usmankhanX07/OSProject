@@ -11,7 +11,14 @@ The makefile compiles the selected algorithm along with the main to run the nece
 
 Each algo has its own mechanism of detecting and solving the deadlock, as shown below:
 
+Banker's Algorithm:
+
+https://github.com/user-attachments/assets/d4742e63-f1dc-4a47-bd3d-a64ea6a0e5c0
+
 Wait_die:
 
 https://github.com/user-attachments/assets/dd57b44a-b691-42e9-9eca-bedf1b3f9340
 
+Resource Allocation Graph:
+
+https://github.com/user-attachments/assets/48053a69-b1cc-433f-913f-3c16c6aab471
